@@ -1,0 +1,64 @@
+<section class="results">
+  <header class="results-header">
+    <h1>Resultados</h1>
+    @if (quiz.sessionTema(); as tema) {
+      <p class="tema-name">{{ tema.nombre }}</p>
+    }
+  </header>
+
+  <div class="score-card">
+    <div
+      class="score-ring"
+      [style.background]="
+        'conic-gradient(var(--accent) ' + quiz.scorePercent() + '%, var(--border) 0)'
+      "
+    >
+      <span class="score-value">{{ quiz.scorePercent() }}%</span>
+    </div>
+    <div class="score-details">
+      <p class="score-line">
+        <strong>{{ quiz.score().correct }}</strong> de
+        <strong>{{ quiz.score().total }}</strong> correctas
+      </p>
+      <p class="time-line">Tiempo: {{ formattedTime }}</p>
+    </div>
+  </div>
+
+  <section class="review">
+    <h2>Repaso por pregunta</h2>
+    <ul class="review-list">
+      @for (answer of quiz.answers(); track answer.questionId; let i = $index) {
+        @if (quiz.getQuestionById(answer.questionId); as q) {
+          <li class="review-item" [class.correct]="answer.correct" [class.incorrect]="!answer.correct">
+            <div class="review-head">
+              <span class="review-num">#{{ i + 1 }}</span>
+              <span class="review-badge">{{ answer.correct ? 'Correcta' : 'Incorrecta' }}</span>
+            </div>
+            <p class="review-question">{{ q.enunciado }}</p>
+            <p class="review-answer">
+              Tu respuesta:
+              <span [class.wrong]="!answer.correct">{{ getOptionText(q.id, answer.selected) }}</span>
+            </p>
+            @if (!answer.correct) {
+              <p class="review-correct">
+                Correcta: {{ getOptionText(q.id, q.correcta) }}
+              </p>
+            }
+            @if (q.explicacion) {
+              <p class="review-expl">{{ q.explicacion }}</p>
+            }
+          </li>
+        }
+      }
+    </ul>
+  </section>
+
+  <div class="results-actions">
+    <button type="button" class="btn btn-primary" (click)="restartSameTema()">
+      Repetir mismo tema
+    </button>
+    <button type="button" class="btn btn-secondary" (click)="goHome()">
+      Elegir otro tema
+    </button>
+  </div>
+</section>

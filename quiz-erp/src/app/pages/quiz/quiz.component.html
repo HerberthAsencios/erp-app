@@ -1,0 +1,88 @@
+@if (quiz.currentQuestion(); as question) {
+  <section class="quiz">
+    <header class="quiz-header">
+      <a routerLink="/" class="back-link">← Temas</a>
+      <div class="quiz-meta">
+        <span class="tema-label">{{ quiz.sessionTema()?.nombre }}</span>
+        <span class="timer" aria-live="polite">
+          <span class="timer-icon">⏱</span> {{ elapsedDisplay() }}
+        </span>
+      </div>
+    </header>
+
+    <div class="progress-wrap">
+      <div class="progress-bar" [style.width.%]="quiz.progressPercent()"></div>
+      <span class="progress-text">
+        Pregunta {{ questionNumber }} de {{ totalQuestions }}
+      </span>
+    </div>
+
+    <article class="question-card">
+      <h1 class="question-text">{{ question.enunciado }}</h1>
+
+      <ul class="options" role="list">
+        @for (opt of question.opciones; track currentQuestionId + '|' + opt.letra) {
+          <li>
+            <button
+              type="button"
+              class="option-btn"
+              [class.selected]="quiz.isOptionSelected(opt.letra)"
+              [class.correct]="quiz.showFeedback() && quiz.isOptionCorrect(opt.letra)"
+              [class.incorrect]="
+                quiz.showFeedback() &&
+                quiz.isOptionSelected(opt.letra) &&
+                !quiz.isOptionCorrect(opt.letra)
+              "
+              [disabled]="quiz.showFeedback()"
+              (click)="onSelect(opt.letra)"
+            >
+              <span class="option-letter">{{ opt.letra }}</span>
+              <span class="option-text">{{ opt.texto }}</span>
+            </button>
+          </li>
+        }
+      </ul>
+
+      @if (quiz.showFeedback()) {
+        <div
+          class="feedback"
+          [class.feedback-ok]="quiz.getCurrentAnswer()?.correct"
+          [class.feedback-error]="!quiz.getCurrentAnswer()?.correct"
+        >
+          @if (quiz.getCurrentAnswer()?.correct) {
+            <strong>¡Correcto!</strong>
+          } @else {
+            <strong>Incorrecto.</strong>
+            <p>
+              La respuesta correcta es
+              <span class="correct-letter">{{ question.correcta }}</span>.
+            </p>
+          }
+          @if (question.explicacion) {
+            <p class="explanation">{{ question.explicacion }}</p>
+          }
+        </div>
+
+        <div class="quiz-actions">
+          @if (quiz.isLastQuestion()) {
+            <button type="button" class="btn btn-primary" (click)="onNext()">
+              Ver resultados
+            </button>
+          } @else {
+            <button type="button" class="btn btn-primary" (click)="onNext()">
+              Siguiente pregunta
+            </button>
+          }
+        </div>
+      }
+    </article>
+
+    <footer class="quiz-footer">
+      <button type="button" class="btn btn-ghost" (click)="onFinishEarly()">
+        Finalizar quiz
+      </button>
+    </footer>
+  </section>
+} @else {
+  <p class="state-message">Cargando quiz…</p>
+}

@@ -1,0 +1,92 @@
+.home {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.hero {
+  margin-bottom: 2rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+}
+
+.hero h1 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(2rem, 5vw, 2.75rem);
+}
+
+.subtitle {
+  margin: 0;
+  color: var(--text-muted);
+  line-height: 1.6;
+  max-width: 52ch;
+}
+
+.state-message {
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--text-muted);
+  background: var(--surface);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.state-message.error {
+  color: var(--danger);
+}
+
+.tema-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.tema-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+}
+
+.tema-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+
+.tema-grupo {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.tema-card h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.35;
+}
+
+.tema-count {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.tema-cta {
+  margin-top: auto;
+  padding-top: 0.5rem;
+  font-weight: 600;
+  color: var(--accent);
+}

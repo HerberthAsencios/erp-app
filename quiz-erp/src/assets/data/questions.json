@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "g1-fin-01",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "Según el propósito fundamental del área, la gestión financiera debe equilibrar de forma inteligente:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El volumen de ventas y el número de empleados para hacer match de los pagos en planilla."
+      },
+      {
+        "letra": "B",
+        "texto": "La cantidad de activos fijos y los pasivos a largo plazo."
+      },
+      {
+        "letra": "C",
+        "texto": "Los costos de marketing y los gastos de logística."
+      },
+      {
+        "letra": "D",
+        "texto": "El riesgo asumido por la organización y el rendimiento esperado por los inversores."
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "El riesgo asumido por la organización y el rendimiento esperado por los inversores.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-fin-02",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "En la estructura organizacional típica presentada, ¿cuál es el objetivo subyacente del nivel Táctico (Jefaturas)?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Sostener la operatividad transaccional diaria sin errores técnicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Maximizar la viabilidad estratégica y asegurar la solvencia regulatoria."
+      },
+      {
+        "letra": "C",
+        "texto": "Cumplir normativa, alinear recursos a proyectos y optimizar la caja."
+      },
+      {
+        "letra": "D",
+        "texto": "Diseñar exclusivamente las líneas de inversión a largo plazo."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Cumplir normativa, alinear recursos y optimizar caja",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-fin-03",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "¿Qué departamento es responsable de la captación de capital y la evaluación de proyectos mediante herramientas como el VAN y la TIR?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Departamento de Tesorería."
+      },
+      {
+        "letra": "B",
+        "texto": "Departamento de Contabilidad."
+      },
+      {
+        "letra": "C",
+        "texto": "Departamento de Estructuración e Inversiones."
+      },
+      {
+        "letra": "D",
+        "texto": "Departamento de Recursos Humanos."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Departamento de Estructuración e Inversiones.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-fin-04",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "¿Cuál es la función principal de la Gestión de Tesorería en el ciclo operativo cotidiano?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Elaborar los estados financieros bajo normas NIIF y las normas IFRS 8."
+      },
+      {
+        "letra": "B",
+        "texto": "Asegurar la disponibilidad de liquidez para cumplir obligaciones de corto plazo."
+      },
+      {
+        "letra": "C",
+        "texto": "Definir la estrategia de marketing y posicionamiento de marca."
+      },
+      {
+        "letra": "D",
+        "texto": "Calcular los impuestos diferidos y controlar los activos fijos."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Asegurar la disponibilidad de liquidez para cumplir obligaciones de corto plazo.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-fin-05",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "En la relación con el área de Ventas, ¿por qué es crítica la gestión de las cuentas por cobrar?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Porque un ciclo de cobro excesivo puede generar problemas de liquidez pese a tener altas ventas."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque permite al área de Ventas ignorar las políticas de crédito de la empresa."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque reduce automáticamente el costo de los productos vendidos."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque elimina la necesidad de realizar proyecciones de flujo de caja."
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Evitar problemas de liquidez por cobros lentos",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-fin-06",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "Desde la perspectiva financiera, ¿cuál es el principal inconveniente de mantener niveles muy elevados de inventario en Logística?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Dificulta la distribución rápida de productos."
+      },
+      {
+        "letra": "B",
+        "texto": "Inmoviliza capital de trabajo y genera costos de almacenamiento y obsolescencia."
+      },
+      {
+        "letra": "C",
+        "texto": "Se pierde la garantía de la continuidad del servicio de entrega."
+      },
+      {
+        "letra": "D",
+        "texto": "Reduce el gasto en seguros y mantenimiento de almacenes."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Inmovilización de capital y costos asociados",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-fin-07",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "¿Qué proceso cierra el ciclo de gestión financiera, permitiendo retroalimentar la planeación y el control?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El análisis, reporte de variaciones y la mejora continua."
+      },
+      {
+        "letra": "B",
+        "texto": "El registro en el libro mayor de todas las transacciones."
+      },
+      {
+        "letra": "C",
+        "texto": "La contratación de nuevo personal para el área operativa."
+      },
+      {
+        "letra": "D",
+        "texto": "La emisión de facturas a los clientes del área comercial."
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Análisis, reporte de variaciones y mejora continua",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-fin-08",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "Según el texto, ¿qué herramienta actúa como \"filtro racional\" entre la ambición estratégica y la capacidad económica real?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El Manual de Organización y Funciones (MOF)."
+      },
+      {
+        "letra": "B",
+        "texto": "El Presupuesto institucional."
+      },
+      {
+        "letra": "C",
+        "texto": "El Organigrama del área de finanzas."
+      },
+      {
+        "letra": "D",
+        "texto": "El Contrato de servicios de auditoría externa."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "El Presupuesto",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-fin-09",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "¿Cuál es una de las ventajas clave de utilizar un sistema ERP en la gestión de riesgos financieros?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Automatiza controles internos y permite una supervisión financiera continua."
+      },
+      {
+        "letra": "B",
+        "texto": "Permite que cada departamento gestione sus datos de forma aislada."
+      },
+      {
+        "letra": "C",
+        "texto": "Elimina por completo la necesidad de realizar auditorías internas."
+      },
+      {
+        "letra": "D",
+        "texto": "Reduce la importancia de la planeación financiera a largo plazo."
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Automatización de controles y supervisión continua",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-fin-10",
+    "grupo": 1,
+    "tema": "Finanzas",
+    "temaSlug": "finanzas",
+    "enunciado": "En la relación con Marketing, ¿en qué basan Finanzas y Marketing sus modelos de optimización del gasto en el entorno digital?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "En la intuición de los gerentes de ambas áreas."
+      },
+      {
+        "letra": "B",
+        "texto": "En la reducción del precio de venta por debajo del costo unitario."
+      },
+      {
+        "letra": "C",
+        "texto": "En la eliminación total de las campañas publicitarias costosas."
+      },
+      {
+        "letra": "D",
+        "texto": "En la disponibilidad de datos en tiempo real y métricas de retorno (ROI)."
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Datos en tiempo real y métricas de retorno",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-01",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "¿Cuál es la innovación técnica que permite a SAP HANA multiplicar la capacidad de procesamiento en tiempo real?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El uso de almacenamiento en discos mecánicos de alta velocidad."
+      },
+      {
+        "letra": "B",
+        "texto": "El manejo de la información directamente en la memoria RAM (In-Memory)."
+      },
+      {
+        "letra": "C",
+        "texto": "La creación de reportes manuales periódicos."
+      },
+      {
+        "letra": "D",
+        "texto": "El procesamiento exclusivo por lotes (batch jobs)."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Tecnología In-Memory",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-02",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "¿Qué técnica de almacenamiento utiliza SAP HANA para optimizar la analítica empresarial y la compresión de datos?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Almacenamiento por filas únicamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Almacenamiento distribuido en cintas magnéticas."
+      },
+      {
+        "letra": "C",
+        "texto": "Almacenamiento columnar."
+      },
+      {
+        "letra": "D",
+        "texto": "Almacenamiento redundante en múltiples bases de datos externas."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Almacenamiento columnar",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-03",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "¿Qué representa la tabla ACDOCA en el modelo de datos de SAP S/4HANA?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Una tabla de índices para acelerar la búsqueda de materiales."
+      },
+      {
+        "letra": "B",
+        "texto": "El Diario Universal que consolida la información financiera."
+      },
+      {
+        "letra": "C",
+        "texto": "Un repositorio de datos históricos de versiones anteriores (ECC)."
+      },
+      {
+        "letra": "D",
+        "texto": "Una herramienta de interfaz de usuario basada en roles."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "ACDOCA es el Diario Universal",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-04",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "¿Cuál es el principio de diseño de SAP Fiori que personaliza la interfaz según las tareas relevantes para el usuario?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Coherente (Coherent)"
+      },
+      {
+        "letra": "B",
+        "texto": "Adaptable (Adaptive)"
+      },
+      {
+        "letra": "C",
+        "texto": "Basado en roles (Role-based)"
+      },
+      {
+        "letra": "D",
+        "texto": "Agradable (Delightful)"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Personalización por roles",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-05",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "En los modelos de despliegue, ¿cuál es la característica principal de la Public Edition de S/4HANA Cloud?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Es un modelo SaaS puro con procesos altamente estandarizados e innovación rápida."
+      },
+      {
+        "letra": "B",
+        "texto": "Permite una personalización ilimitada del código fuente original."
+      },
+      {
+        "letra": "C",
+        "texto": "Requiere que el cliente gestione su propia infraestructura de servidores físicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Es idéntico al modelo On-premise en términos de control de hardware."
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Modelo SaaS estandarizado",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-06",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "¿Cómo se simplifica la gestión de deudores y acreedores en SAP S/4HANA?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Manteniendo objetos de datos maestros separados para clientes y proveedores."
+      },
+      {
+        "letra": "B",
+        "texto": "Mediante la implementación obligatoria del concepto de Business Partner."
+      },
+      {
+        "letra": "C",
+        "texto": "Eliminando el registro de direcciones y comunicación de los socios."
+      },
+      {
+        "letra": "D",
+        "texto": "Duplicando la información en tablas externas de Excel."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Business Partner unificado",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-07",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "¿Cuál es la función principal de Document Splitting en SAP S/4HANA?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Dividir facturas de proveedores en múltiples pagos programados."
+      },
+      {
+        "letra": "B",
+        "texto": "Permitir que Ventas modifique asientos contables antes del Diario Universal."
+      },
+      {
+        "letra": "C",
+        "texto": "Fragmentar la tabla ACDOCA en archivos más pequeños."
+      },
+      {
+        "letra": "D",
+        "texto": "Asegurar que cada línea herede el Centro de Beneficio o Segmento para balances en tiempo real."
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Herencia de centro de beneficio o segmento",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-08",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "¿Qué ventaja operativa ofrece MRP Live en el módulo de Producción (PP)?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Traslada la lógica de cálculo del servidor de aplicaciones directamente a la base de datos HANA."
+      },
+      {
+        "letra": "B",
+        "texto": "Ejecuta la planificación solo una vez al día durante la noche."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumenta el tiempo de procesamiento secuencial de materiales."
+      },
+      {
+        "letra": "D",
+        "texto": "Requiere el uso de tablas de índices y agregados antiguos."
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Procesamiento en capa de base de datos",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-09",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "¿En qué consiste el enfoque de implementación Greenfield?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Convertir técnicamente el sistema ERP existente preservando personalizaciones."
+      },
+      {
+        "letra": "B",
+        "texto": "Implementar el sistema desde cero sin trasladar configuraciones del sistema anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Actualizar únicamente la interfaz de usuario SAP GUI."
+      },
+      {
+        "letra": "D",
+        "texto": "Migrar solo los datos de recursos humanos a la nube."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Implementación desde cero",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g1-sap-10",
+    "grupo": 1,
+    "tema": "SAP S/4HANA",
+    "temaSlug": "sap-s-4hana",
+    "enunciado": "Según el caso de Primax, ¿cuál es un beneficio clave de S/4HANA en la gestión de combustibles?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Conocer en tiempo real el valor del inventario sin esperar procesos nocturnos."
+      },
+      {
+        "letra": "B",
+        "texto": "Eliminar la necesidad de reportar transacciones a la SUNAT."
+      },
+      {
+        "letra": "C",
+        "texto": "Reducir físicamente la volatilidad del precio internacional del petróleo."
+      },
+      {
+        "letra": "D",
+        "texto": "Evitar el uso de cualquier sistema de facturación electrónica."
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Valoración de inventario en tiempo real",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-01",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿Qué tipo de arquitectura nativa en la nube utiliza Oracle NetSuite?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Arquitectura On-Premise descentralizada."
+      },
+      {
+        "letra": "B",
+        "texto": "Arquitectura Multi-tenant SaaS (Software como Servicio)."
+      },
+      {
+        "letra": "C",
+        "texto": "Arquitectura Single-tenant IaaS (Infraestructura como Servicio)."
+      },
+      {
+        "letra": "D",
+        "texto": "Arquitectura de Silos Fragmentados."
+      },
+      {
+        "letra": "E",
+        "texto": "Arquitectura de Redes Peer-to-Peer."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Arquitectura Multi-tenant SaaS (Software como Servicio).",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-02",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿Qué herramienta No-Code de SuiteCloud crea campos, registros y formularios personalizados?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "SuiteScript"
+      },
+      {
+        "letra": "B",
+        "texto": "SuiteTalk"
+      },
+      {
+        "letra": "C",
+        "texto": "SuiteFlow"
+      },
+      {
+        "letra": "D",
+        "texto": "SuiteBuilder"
+      },
+      {
+        "letra": "E",
+        "texto": "SuiteCommerce"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "SuiteBuilder",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-03",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿Cuál es la función principal de SuiteFlow?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Validaciones algorítmicas de alta complejidad mediante código."
+      },
+      {
+        "letra": "B",
+        "texto": "Conectar el ERP con Shopify mediante APIs."
+      },
+      {
+        "letra": "C",
+        "texto": "Automatizar flujos de aprobación y enrutamiento mediante interfaz visual de arrastrar y soltar."
+      },
+      {
+        "letra": "D",
+        "texto": "Procesar datos históricos en el Data Warehouse de forma asíncrona."
+      },
+      {
+        "letra": "E",
+        "texto": "Consolidar los estados financieros en diferentes divisas."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Automatizar flujos de aprobación y enrutamiento mediante interfaz visual.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-04",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿Qué lenguaje utiliza SuiteScript?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Python"
+      },
+      {
+        "letra": "B",
+        "texto": "ABAP"
+      },
+      {
+        "letra": "C",
+        "texto": "C#"
+      },
+      {
+        "letra": "D",
+        "texto": "Java"
+      },
+      {
+        "letra": "E",
+        "texto": "JavaScript"
+      }
+    ],
+    "correcta": "E",
+    "explicacion": "JavaScript",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-05",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿Qué componente integra NetSuite con APIs REST o SOAP?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "SuiteTalk"
+      },
+      {
+        "letra": "B",
+        "texto": "SuiteBuilder"
+      },
+      {
+        "letra": "C",
+        "texto": "SuiteFlow"
+      },
+      {
+        "letra": "D",
+        "texto": "OneWorld"
+      },
+      {
+        "letra": "E",
+        "texto": "SuiteAnalytics"
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "SuiteTalk",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-06",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿Cuál es la función principal de NetSuite OneWorld?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Scripts en múltiples lenguajes."
+      },
+      {
+        "letra": "B",
+        "texto": "Gestionar múltiples subsidiarias, divisas (más de 190), idiomas y marcos tributarios localizados desde una única instancia del ERP."
+      },
+      {
+        "letra": "C",
+        "texto": "Conectar tienda e-commerce con inventario."
+      },
+      {
+        "letra": "D",
+        "texto": "Reportes BI con IA generativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Entorno Sandbox para pruebas."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Gestionar subsidiarias, divisas, idiomas y marcos tributarios localizados.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-07",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿Bajo qué modelo de distribución opera Oracle NetSuite?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "On-Premise"
+      },
+      {
+        "letra": "B",
+        "texto": "Freeware"
+      },
+      {
+        "letra": "C",
+        "texto": "SaaS"
+      },
+      {
+        "letra": "D",
+        "texto": "Open Source"
+      },
+      {
+        "letra": "E",
+        "texto": "PaaS"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "SaaS",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-08",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿En qué año Oracle adquirió NetSuite por ~9.3 mil millones?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "2008"
+      },
+      {
+        "letra": "B",
+        "texto": "2012"
+      },
+      {
+        "letra": "C",
+        "texto": "2014"
+      },
+      {
+        "letra": "D",
+        "texto": "2016"
+      },
+      {
+        "letra": "E",
+        "texto": "2020"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "2016",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-09",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿Cómo se llama el asistente de lenguaje natural de NetSuite Next?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "SuiteBot"
+      },
+      {
+        "letra": "B",
+        "texto": "AI Canvas"
+      },
+      {
+        "letra": "C",
+        "texto": "Ask Oracle"
+      },
+      {
+        "letra": "D",
+        "texto": "SuiteGPT"
+      },
+      {
+        "letra": "E",
+        "texto": "OCI Advisor"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Ask Oracle",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-net-10",
+    "grupo": 2,
+    "tema": "Oracle NetSuite",
+    "temaSlug": "oracle-netsuite",
+    "enunciado": "¿Qué distingue a SuiteCommerce de Shopify o Magento?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Es gratuita para todos los clientes de NetSuite."
+      },
+      {
+        "letra": "B",
+        "texto": "Comparte la misma base de datos del ERP sin necesidad de sincronización externa."
+      },
+      {
+        "letra": "C",
+        "texto": "Funciona exclusivamente para ventas B2B."
+      },
+      {
+        "letra": "D",
+        "texto": "Requiere integración mediante APIs REST para conectarse al inventario."
+      },
+      {
+        "letra": "E",
+        "texto": "Solo está disponible en la edición Enterprise."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Comparte la misma base de datos del ERP sin sincronización externa.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-01",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "¿Cuál es la diferencia entre Funnel y Pipeline de ventas?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Funnel B2B y pipeline B2C."
+      },
+      {
+        "letra": "B",
+        "texto": "El funnel representa el viaje psicológico del cliente; el pipeline es la hoja de ruta operativa interna del vendedor."
+      },
+      {
+        "letra": "C",
+        "texto": "Pipeline mide rentabilidad; funnel solo volumen."
+      },
+      {
+        "letra": "D",
+        "texto": "No hay diferencia; ambos son Order-to-Cash."
+      },
+      {
+        "letra": "E",
+        "texto": "Funnel del ERP y pipeline del CRM."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "El funnel es el viaje del cliente; el pipeline es la hoja de ruta del vendedor.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-02",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "¿Qué función cumple Stock ATP en la integración Ventas-Logística?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Automatizar facturas electrónicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Registrar pagos en contabilidad."
+      },
+      {
+        "letra": "C",
+        "texto": "Procesar inventario físico, pedidos reservados y producción futura para dar fecha de entrega real."
+      },
+      {
+        "letra": "D",
+        "texto": "Gestionar devoluciones post-venta."
+      },
+      {
+        "letra": "E",
+        "texto": "Seguimiento de cuotas de ventas."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Procesar inventario, pedidos y producción para dar fecha de entrega real.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-03",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "¿Cuál es el propósito principal de Sales Operations?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Visitar clientes para cerrar negociaciones."
+      },
+      {
+        "letra": "B",
+        "texto": "Diseñar campañas publicitarias."
+      },
+      {
+        "letra": "C",
+        "texto": "Estandarizar procesos, optimizar herramientas tecnológicas y asegurar la calidad de la información comercial."
+      },
+      {
+        "letra": "D",
+        "texto": "Cobro de facturas vencidas."
+      },
+      {
+        "letra": "E",
+        "texto": "Administrar nómina."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Estandarizar procesos, optimizar herramientas y asegurar calidad de información comercial.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-04",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "¿Qué evento marca el inicio formal del ciclo Order-to-Cash?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Identificación de prospecto."
+      },
+      {
+        "letra": "B",
+        "texto": "Demostración técnica."
+      },
+      {
+        "letra": "C",
+        "texto": "El momento en que un cliente coloca un pedido en firme."
+      },
+      {
+        "letra": "D",
+        "texto": "Firma de contrato de mantenimiento."
+      },
+      {
+        "letra": "E",
+        "texto": "Aprobación del presupuesto anual."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "El cliente coloca un pedido en firme.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-05",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "¿Por qué es crítico el intercambio de datos de crédito de clientes entre Ventas y Finanzas?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Descuentos ilimitados."
+      },
+      {
+        "letra": "B",
+        "texto": "Segmentación por ingresos."
+      },
+      {
+        "letra": "C",
+        "texto": "Asegurar ventas a clientes solventes, bloqueando pedidos que superen límites de deuda o historial negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Comisiones solo por volumen."
+      },
+      {
+        "letra": "E",
+        "texto": "Sincronizar pronósticos con producción."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Asegurar ventas a clientes solventes bloqueando pedidos que superen límites.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-06",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "¿Cómo se denomina el conjunto de pasos coordinados entre ventas, finanzas y producción?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Función departamental aislada."
+      },
+      {
+        "letra": "B",
+        "texto": "Proceso de negocio."
+      },
+      {
+        "letra": "C",
+        "texto": "Tarea de soporte técnico."
+      },
+      {
+        "letra": "D",
+        "texto": "Auditoría de inventarios."
+      },
+      {
+        "letra": "E",
+        "texto": "Plan de publicidad."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Proceso de negocio.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-07",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "¿Qué transacciones definen el ciclo entre SCM y el proveedor?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Informes de campañas y tendencias."
+      },
+      {
+        "letra": "B",
+        "texto": "Perfiles de candidatos y tabuladores."
+      },
+      {
+        "letra": "C",
+        "texto": "SCM emite órdenes de materias primas; el proveedor envía materiales y datos de disponibilidad y entrega."
+      },
+      {
+        "letra": "D",
+        "texto": "Balances auditados y notas de crédito."
+      },
+      {
+        "letra": "E",
+        "texto": "Soporte BI y dashboards."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Órdenes de materias primas y respuesta con materiales y disponibilidad.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-08",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "¿Qué datos intercambia RR.HH. con Contabilidad para la planilla?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Plan de marketing y demanda."
+      },
+      {
+        "letra": "B",
+        "texto": "Mantenimiento de planta y códigos de barra."
+      },
+      {
+        "letra": "C",
+        "texto": "Requisitos legales, datos de nómina y gastos por beneficios de los empleados."
+      },
+      {
+        "letra": "D",
+        "texto": "Habilidades de postulantes y notas de crédito."
+      },
+      {
+        "letra": "E",
+        "texto": "Consultas técnicas e inventario de seguridad."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Requisitos legales, nómina y gastos por beneficios.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-09",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "Tras registrar el pedido, ¿qué hace Contabilidad?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Ensamblar producto y ruta de distribución."
+      },
+      {
+        "letra": "B",
+        "texto": "Diseñar campaña y modificar precios."
+      },
+      {
+        "letra": "C",
+        "texto": "Verificar el crédito del cliente, aprobar el crédito y generar la factura correspondiente."
+      },
+      {
+        "letra": "D",
+        "texto": "Entrenar empleados y registrar horas."
+      },
+      {
+        "letra": "E",
+        "texto": "Órdenes de compra a proveedores."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Verificar crédito, aprobarlo y generar factura.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g2-ven-10",
+    "grupo": 2,
+    "tema": "Áreas Funcionales - Ventas",
+    "temaSlug": "areas-funcionales-ventas",
+    "enunciado": "¿Cómo interactúa Ventas con RR.HH. al expandir fuerza comercial?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Comisiones y leyes de zonificación."
+      },
+      {
+        "letra": "B",
+        "texto": "Diseños publicitarios y pruebas psicométricas."
+      },
+      {
+        "letra": "C",
+        "texto": "Presupuestos de viaje y técnicos de TI."
+      },
+      {
+        "letra": "D",
+        "texto": "Ventas comunica requerimientos del puesto e información legal; RR.HH. responde con necesidades de contratación y personal disponible."
+      },
+      {
+        "letra": "E",
+        "texto": "Estados de órdenes y perfiles de producción."
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Ventas comunica requerimientos; RR.HH. responde con contratación y personal disponible.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-01",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "Sin actualización de inventario en tiempo real en el ERP, ¿cuál es la principal consecuencia logística?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Incremento de campañas publicitarias"
+      },
+      {
+        "letra": "B",
+        "texto": "Falta de sincronización entre abastecimiento y producción, generando quiebres de stock"
+      },
+      {
+        "letra": "C",
+        "texto": "Mayor rotación del personal administrativo"
+      },
+      {
+        "letra": "D",
+        "texto": "Disminución de ventas por marketing"
+      },
+      {
+        "letra": "E",
+        "texto": "Reducción automática de costos financieros"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Falta de sincronización entre abastecimiento y producción, generando quiebres de stock",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-02",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "¿Cuál es el principal beneficio de implementar RFID en almacenes?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Eliminar inventarios físicos"
+      },
+      {
+        "letra": "B",
+        "texto": "Incrementar trabajadores en almacén"
+      },
+      {
+        "letra": "C",
+        "texto": "Mejorar trazabilidad y precisión en control de inventarios"
+      },
+      {
+        "letra": "D",
+        "texto": "Sustituir el ERP por sistemas manuales"
+      },
+      {
+        "letra": "E",
+        "texto": "Reducir actividades de distribución"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Mejorar trazabilidad y precisión en control de inventarios",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-03",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "Con inventario excesivo y costos de almacenamiento, ¿qué indicador analizar?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Rotación de inventarios"
+      },
+      {
+        "letra": "B",
+        "texto": "Tasa de reclutamiento"
+      },
+      {
+        "letra": "C",
+        "texto": "Rentabilidad financiera anual"
+      },
+      {
+        "letra": "D",
+        "texto": "Participación de mercado"
+      },
+      {
+        "letra": "E",
+        "texto": "Clima organizacional"
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Rotación de inventarios",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-04",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "Logística coordina con producción para abastecimiento oportuno. ¿Qué principio aplica?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Integración de procesos empresariales"
+      },
+      {
+        "letra": "B",
+        "texto": "Segmentación de mercado"
+      },
+      {
+        "letra": "C",
+        "texto": "Publicidad estratégica"
+      },
+      {
+        "letra": "D",
+        "texto": "Gestión tributaria"
+      },
+      {
+        "letra": "E",
+        "texto": "Control financiero externo"
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Integración de procesos empresariales",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-05",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "Planificación de rutas para reducir tiempos y combustible. ¿Qué objetivo busca?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Incrementar proveedores"
+      },
+      {
+        "letra": "B",
+        "texto": "Mejorar eficiencia operativa y reducir costos de distribución"
+      },
+      {
+        "letra": "C",
+        "texto": "Sustituir almacenamiento"
+      },
+      {
+        "letra": "D",
+        "texto": "Incrementar campañas promocionales"
+      },
+      {
+        "letra": "E",
+        "texto": "Eliminar gestión de inventarios"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Mejorar eficiencia operativa y reducir costos de distribución",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-06",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "En la CNM, ¿qué sistema es el cerebro logístico de flujos de materiales?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "ADMVENTA"
+      },
+      {
+        "letra": "B",
+        "texto": "SCADA"
+      },
+      {
+        "letra": "C",
+        "texto": "SICNM"
+      },
+      {
+        "letra": "D",
+        "texto": "INSAD"
+      },
+      {
+        "letra": "E",
+        "texto": "SIGA"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "SICNM",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-07",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "¿En qué consiste la gestión de devoluciones en la CNM?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Reembolsar por errores de facturación"
+      },
+      {
+        "letra": "B",
+        "texto": "Devolver maquinaria obsoleta"
+      },
+      {
+        "letra": "C",
+        "texto": "Devolver billetes al BCRP por fallas"
+      },
+      {
+        "letra": "D",
+        "texto": "Manejo de mermas, cospeles defectuosos y residuos metálicos"
+      },
+      {
+        "letra": "E",
+        "texto": "Anulación de contratos sin abrir"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Manejo de mermas, cospeles defectuosos y residuos metálicos",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-08",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "¿Cuál KPI usa el área logística de la CNM?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Conversión de prospectos"
+      },
+      {
+        "letra": "B",
+        "texto": "Rotación de personal"
+      },
+      {
+        "letra": "C",
+        "texto": "ROI de campañas"
+      },
+      {
+        "letra": "D",
+        "texto": "Tasa de errores de registro de materiales"
+      },
+      {
+        "letra": "E",
+        "texto": "Satisfacción de proveedores tercerizados"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Tasa de errores de registro de materiales",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-09",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "¿Con qué departamento se articula Logística con Finanzas en la CNM?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Transporte y Distribución"
+      },
+      {
+        "letra": "B",
+        "texto": "Liquidación y Control"
+      },
+      {
+        "letra": "C",
+        "texto": "Recursos Humanos"
+      },
+      {
+        "letra": "D",
+        "texto": "Adquisiciones del Estado"
+      },
+      {
+        "letra": "E",
+        "texto": "Marketing y Ventas"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Liquidación y Control",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-log-10",
+    "grupo": 3,
+    "tema": "Logística",
+    "temaSlug": "logistica",
+    "enunciado": "¿Cómo se clasifica la infraestructura de almacenamiento de la CNM?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Sistema mixto interno especializado y almacenes externos de terceros"
+      },
+      {
+        "letra": "B",
+        "texto": "Un solo centro comercial fuera de Lima"
+      },
+      {
+        "letra": "C",
+        "texto": "Modelo JIT sin almacenes físicos"
+      },
+      {
+        "letra": "D",
+        "texto": "Solo alquiler a minoristas"
+      },
+      {
+        "letra": "E",
+        "texto": "Red operada por el BCRP"
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Sistema mixto interno especializado y almacenes externos de terceros",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-01",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿En qué año fue fundada Siebel Systems?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "1989"
+      },
+      {
+        "letra": "B",
+        "texto": "1991"
+      },
+      {
+        "letra": "C",
+        "texto": "1993"
+      },
+      {
+        "letra": "D",
+        "texto": "1997"
+      },
+      {
+        "letra": "E",
+        "texto": "2001"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-02",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿Qué diferencia a Oracle Siebel CRM de un ERP tradicional?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Gestionar recursos financieros"
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar cadena de suministro"
+      },
+      {
+        "letra": "C",
+        "texto": "Centralizar y automatizar la gestión de relaciones con clientes"
+      },
+      {
+        "letra": "D",
+        "texto": "Controlar inventario y producción"
+      },
+      {
+        "letra": "E",
+        "texto": "Procesar nóminas"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-03",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿Qué componente actúa como directorio central y balanceo de carga?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "AOM"
+      },
+      {
+        "letra": "B",
+        "texto": "Siebel Repository"
+      },
+      {
+        "letra": "C",
+        "texto": "SAI"
+      },
+      {
+        "letra": "D",
+        "texto": "Siebel Gateway Name Server"
+      },
+      {
+        "letra": "E",
+        "texto": "Oracle Database Server"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-04",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿Cuál NO es un módulo principal de Oracle Siebel?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Siebel Sales"
+      },
+      {
+        "letra": "B",
+        "texto": "Siebel Marketing"
+      },
+      {
+        "letra": "C",
+        "texto": "Siebel Service"
+      },
+      {
+        "letra": "D",
+        "texto": "Siebel Supply Chain"
+      },
+      {
+        "letra": "E",
+        "texto": "Siebel Loyalty"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-05",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿Qué permite Forecasting en Siebel Sales?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Enrutar correos"
+      },
+      {
+        "letra": "B",
+        "texto": "Programas de fidelización"
+      },
+      {
+        "letra": "C",
+        "texto": "Visión en tiempo real del rendimiento del equipo"
+      },
+      {
+        "letra": "D",
+        "texto": "Logística de piezas en campo"
+      },
+      {
+        "letra": "E",
+        "texto": "Catálogos dinámicos"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-06",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿Qué introdujo Siebel Open UI?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Bases distribuidas multi-región"
+      },
+      {
+        "letra": "B",
+        "texto": "Arquitectura web HTML5, CSS y JavaScript"
+      },
+      {
+        "letra": "C",
+        "texto": "Motor de IA predictiva"
+      },
+      {
+        "letra": "D",
+        "texto": "Despliegue solo en nube pública"
+      },
+      {
+        "letra": "E",
+        "texto": "Autenticación biométrica"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-07",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿Cuál es el rol de Siebel en telecomunicaciones (ej. Swisscom)?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Reemplazar OSS/BSS"
+      },
+      {
+        "letra": "B",
+        "texto": "Facturación principal"
+      },
+      {
+        "letra": "C",
+        "texto": "Capa CRM frente al cliente"
+      },
+      {
+        "letra": "D",
+        "texto": "Solo marketing digital"
+      },
+      {
+        "letra": "E",
+        "texto": "Infraestructura de red"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-08",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿Cuál es una desventaja de Oracle Siebel frente a SaaS modernos?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "No integra con ERP"
+      },
+      {
+        "letra": "B",
+        "texto": "Sin módulos sectoriales"
+      },
+      {
+        "letra": "C",
+        "texto": "Curva de aprendizaje elevada y UX menos intuitiva"
+      },
+      {
+        "letra": "D",
+        "texto": "Sin multicanal"
+      },
+      {
+        "letra": "E",
+        "texto": "Límite de 1000 usuarios"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-09",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿Qué beneficio se relaciona con grandes volúmenes de usuarios?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Experiencia del cliente"
+      },
+      {
+        "letra": "B",
+        "texto": "Escalabilidad empresarial"
+      },
+      {
+        "letra": "C",
+        "texto": "Reducción de costos"
+      },
+      {
+        "letra": "D",
+        "texto": "Mejor toma de decisiones"
+      },
+      {
+        "letra": "E",
+        "texto": "Centralización"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g3-sie-10",
+    "grupo": 3,
+    "tema": "Oracle Siebel",
+    "temaSlug": "oracle-siebel",
+    "enunciado": "¿Cuál describe la escalabilidad de Oracle Siebel?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Solo PYMEs menores de 500 empleados"
+      },
+      {
+        "letra": "B",
+        "texto": "Solo on-premise"
+      },
+      {
+        "letra": "C",
+        "texto": "Miles de usuarios concurrentes sin degradar rendimiento"
+      },
+      {
+        "letra": "D",
+        "texto": "Un solo servidor"
+      },
+      {
+        "letra": "E",
+        "texto": "Sin personalización"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-01",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "¿Qué componente actúa como servicio de datos estandarizado para todas las aplicaciones?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Microsoft Azure Service Bus"
+      },
+      {
+        "letra": "B",
+        "texto": "Microsoft Dataverse (Common Data Service)"
+      },
+      {
+        "letra": "C",
+        "texto": "Azure Active Directory"
+      },
+      {
+        "letra": "D",
+        "texto": "SQL Server Integration Services"
+      },
+      {
+        "letra": "E",
+        "texto": "Dynamics 365 API RESTful"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Microsoft Dataverse (Common Data Service)",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-02",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "Dynamics 365 integra principalmente:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Solo aplicaciones de diseño gráfico y contabilidad."
+      },
+      {
+        "letra": "B",
+        "texto": "Únicamente sistemas operativos Windows y servidores locales."
+      },
+      {
+        "letra": "C",
+        "texto": "Las capacidades de CRM y ERP en una sola solución en la nube."
+      },
+      {
+        "letra": "D",
+        "texto": "Redes sociales y correos electrónicos de terceros exclusivamente."
+      },
+      {
+        "letra": "E",
+        "texto": "Bases de datos relacionales sin conexión a la nube."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "CRM y ERP en una sola solución en la nube.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-03",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "¿Qué módulo gestiona incidencias y omnicanalidad del cliente?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Dynamics 365 Sales"
+      },
+      {
+        "letra": "B",
+        "texto": "Dynamics 365 Marketing"
+      },
+      {
+        "letra": "C",
+        "texto": "Dynamics 365 Customer Service"
+      },
+      {
+        "letra": "D",
+        "texto": "Dynamics 365 Finance"
+      },
+      {
+        "letra": "E",
+        "texto": "Dynamics 365 Commerce"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Dynamics 365 Customer Service",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-04",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "¿En qué año se lanzó Dynamics 365 unificando ERP y CRM?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "2001"
+      },
+      {
+        "letra": "B",
+        "texto": "2006"
+      },
+      {
+        "letra": "C",
+        "texto": "2012"
+      },
+      {
+        "letra": "D",
+        "texto": "2016"
+      },
+      {
+        "letra": "E",
+        "texto": "2020"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "2016",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-05",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "¿Qué herramienta Power Platform automatiza tareas con triggers?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Power Apps"
+      },
+      {
+        "letra": "B",
+        "texto": "Power BI"
+      },
+      {
+        "letra": "C",
+        "texto": "Power Pages"
+      },
+      {
+        "letra": "D",
+        "texto": "Power Automate"
+      },
+      {
+        "letra": "E",
+        "texto": "Microsoft Copilot"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Power Automate",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-06",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "¿Cuál es el objetivo de Dynamics 365 Finance?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Gestionar reclutamiento y selección."
+      },
+      {
+        "letra": "B",
+        "texto": "Controlar y analizar la información financiera y contable en tiempo real."
+      },
+      {
+        "letra": "C",
+        "texto": "Supervisar rutas de transporte."
+      },
+      {
+        "letra": "D",
+        "texto": "Crear campañas de marketing."
+      },
+      {
+        "letra": "E",
+        "texto": "Administrar inventario físico en almacenes."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Controlar información financiera y contable en tiempo real.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-07",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "Picking y Packing en SCM es parte de:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Gestión de compras y proveedores."
+      },
+      {
+        "letra": "B",
+        "texto": "Planificación de la demanda."
+      },
+      {
+        "letra": "C",
+        "texto": "Gestión de almacenes (Warehouse Management)."
+      },
+      {
+        "letra": "D",
+        "texto": "Contabilidad de activos fijos."
+      },
+      {
+        "letra": "E",
+        "texto": "Gestión de relaciones con clientes (CRM)."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Gestión de almacenes (Warehouse Management).",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-08",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "¿Qué característica permite escalar recursos según demanda?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Redundancia geográfica"
+      },
+      {
+        "letra": "B",
+        "texto": "Elasticidad"
+      },
+      {
+        "letra": "C",
+        "texto": "Interfaz modular"
+      },
+      {
+        "letra": "D",
+        "texto": "Seguridad a nivel de fila"
+      },
+      {
+        "letra": "E",
+        "texto": "Integración nativa con Teams"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Elasticidad",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-09",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "Automatizar sueldos y boletas en HR se denomina:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Gestión de Personal"
+      },
+      {
+        "letra": "B",
+        "texto": "Control de Asistencia"
+      },
+      {
+        "letra": "C",
+        "texto": "Gestión de Planillas"
+      },
+      {
+        "letra": "D",
+        "texto": "Capacitación y Desarrollo"
+      },
+      {
+        "letra": "E",
+        "texto": "Reclutamiento y Selección"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Gestión de Planillas",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-dyn-10",
+    "grupo": 4,
+    "tema": "Microsoft Dynamics 365",
+    "temaSlug": "microsoft-dynamics-365",
+    "enunciado": "¿Cómo se llama el asistente de IA generativa en Dynamics 365?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Azure AI"
+      },
+      {
+        "letra": "B",
+        "texto": "Power Agent"
+      },
+      {
+        "letra": "C",
+        "texto": "Microsoft Copilot"
+      },
+      {
+        "letra": "D",
+        "texto": "Dynamics Bot"
+      },
+      {
+        "letra": "E",
+        "texto": "Insight Manager"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Microsoft Copilot",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-01",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "¿Cuál es la principal diferencia de RR.HH. frente a otras áreas?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "RR.HH. es la única área que genera gastos directos."
+      },
+      {
+        "letra": "B",
+        "texto": "Otras áreas gestionan recursos tangibles; RR.HH. trabaja con personas y sus motivaciones."
+      },
+      {
+        "letra": "C",
+        "texto": "RR.HH. no tiene relación con ERP."
+      },
+      {
+        "letra": "D",
+        "texto": "Solo contrataciones y despidos."
+      },
+      {
+        "letra": "E",
+        "texto": "Solo cumplimiento legal ante SUNAFIL."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "RR.HH. trabaja con personas y sus motivaciones.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-02",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "Según Dave Ulrich, ¿cuáles son los cuatro roles de RR.HH.?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Reclutador, capacitador, administrador y psicólogo."
+      },
+      {
+        "letra": "B",
+        "texto": "Socio estratégico, agente de cambio, experto administrativo y defensor de los empleados."
+      },
+      {
+        "letra": "C",
+        "texto": "Gerente, jefe, analista y asistente operativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Evaluador, seleccionador, pagador y fiscalizador."
+      },
+      {
+        "letra": "E",
+        "texto": "Planificador, organizador, ejecutor y controlador."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Socio estratégico, agente de cambio, experto administrativo y defensor de empleados.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-03",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "Enfoque estratégico de RR.HH. vs tradicional:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Relación limitada a procesos administrativos."
+      },
+      {
+        "letra": "B",
+        "texto": "Decisiones solo por normativas internas."
+      },
+      {
+        "letra": "C",
+        "texto": "Alineación con los objetivos estratégicos del negocio."
+      },
+      {
+        "letra": "D",
+        "texto": "Solo cobertura de vacantes y control de contratos."
+      },
+      {
+        "letra": "E",
+        "texto": "Éxito solo por puntualidad de planillas."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Alineación con objetivos estratégicos del negocio.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-04",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "¿Quién define la estrategia de gestión del talento?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Jefe de Reclutamiento y Selección."
+      },
+      {
+        "letra": "B",
+        "texto": "Jefe de Clima y Cultura Organizacional."
+      },
+      {
+        "letra": "C",
+        "texto": "Asistente de Planillas."
+      },
+      {
+        "letra": "D",
+        "texto": "Gerente de Recursos Humanos."
+      },
+      {
+        "letra": "E",
+        "texto": "Jefe de Seguridad y Salud en el Trabajo."
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Gerente de Recursos Humanos.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-05",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "Búsqueda directa de talento especializado para altos cargos:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Reclutamiento Mixto."
+      },
+      {
+        "letra": "B",
+        "texto": "Programa de referidos."
+      },
+      {
+        "letra": "C",
+        "texto": "Hunting (o headhunting)."
+      },
+      {
+        "letra": "D",
+        "texto": "Reclutamiento Interno."
+      },
+      {
+        "letra": "E",
+        "texto": "Convocatoria por redes sociales."
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Hunting (o headhunting).",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-06",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "¿En qué consiste el Fit Cultural?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Evaluar títulos académicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Medir alineación a valores y cultura de la empresa."
+      },
+      {
+        "letra": "C",
+        "texto": "Verificar referencias laborales."
+      },
+      {
+        "letra": "D",
+        "texto": "Analizar pretensión salarial."
+      },
+      {
+        "letra": "E",
+        "texto": "Evaluar destreza técnica con pruebas psicotécnicas."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Alineación a valores y cultura de la empresa.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-07",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "Diferencia entre Inducción y Onboarding:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Inducción para directivos; onboarding para operativos."
+      },
+      {
+        "letra": "B",
+        "texto": "Onboarding breve; inducción larga."
+      },
+      {
+        "letra": "C",
+        "texto": "Inducción obligatoria por ley; onboarding opcional."
+      },
+      {
+        "letra": "D",
+        "texto": "Inducción breve y básica; onboarding es integración progresiva y larga."
+      },
+      {
+        "letra": "E",
+        "texto": "No existe diferencia."
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Inducción breve; onboarding integración progresiva y larga.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-08",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "Objetivo del diagnóstico de necesidades de capacitación:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Identificar brechas entre competencias actuales y requeridas."
+      },
+      {
+        "letra": "B",
+        "texto": "Determinar aumentos de sueldo."
+      },
+      {
+        "letra": "C",
+        "texto": "Seleccionar candidatos para entrevista."
+      },
+      {
+        "letra": "D",
+        "texto": "Evaluar clima laboral."
+      },
+      {
+        "letra": "E",
+        "texto": "Cumplir presupuesto de Finanzas."
+      }
+    ],
+    "correcta": "A",
+    "explicacion": "Identificar brechas de competencias actuales y requeridas.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-09",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "¿Qué información recibe Finanzas desde RR.HH.?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Requerimientos de personal comercial."
+      },
+      {
+        "letra": "B",
+        "texto": "Datos de planilla, costos laborales y presupuesto de personal."
+      },
+      {
+        "letra": "C",
+        "texto": "Estrategias de comunicación interna."
+      },
+      {
+        "letra": "D",
+        "texto": "Resultados de exámenes médicos ocupacionales."
+      },
+      {
+        "letra": "E",
+        "texto": "Planes de carrera y línea de sucesión."
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Datos de planilla, costos laborales y presupuesto de personal.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g4-rh-10",
+    "grupo": 4,
+    "tema": "Recursos Humanos",
+    "temaSlug": "recursos-humanos",
+    "enunciado": "¿Qué porcentaje de rotación se debe a malas contrataciones?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "10%"
+      },
+      {
+        "letra": "B",
+        "texto": "25%"
+      },
+      {
+        "letra": "C",
+        "texto": "45%"
+      },
+      {
+        "letra": "D",
+        "texto": "80%"
+      },
+      {
+        "letra": "E",
+        "texto": "100%"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "80%",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-01",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "¿Cuál fue la innovación principal que diferenció a Salesforce al fundarse?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Primer lenguaje de programación propio para CRM"
+      },
+      {
+        "letra": "B",
+        "texto": "Crear el marketplace AppExchange"
+      },
+      {
+        "letra": "C",
+        "texto": "Ofrecer SaaS por suscripción mensual, eliminando instalaciones locales"
+      },
+      {
+        "letra": "D",
+        "texto": "Adquirir empresas de IA"
+      },
+      {
+        "letra": "E",
+        "texto": "Lanzar Dreamforce"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "SaaS por suscripción mensual sin instalaciones locales.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-02",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "¿Qué es AppExchange?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Lenguaje de programación propio"
+      },
+      {
+        "letra": "B",
+        "texto": "Plataforma de IA integrada"
+      },
+      {
+        "letra": "C",
+        "texto": "Primer marketplace empresarial en la nube para aplicaciones de terceros"
+      },
+      {
+        "letra": "D",
+        "texto": "Herramienta de visualización de datos"
+      },
+      {
+        "letra": "E",
+        "texto": "Sistema de integración de APIs con ERPs"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Marketplace empresarial en la nube para aplicaciones de terceros.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-03",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "Problema principal de gestión de clientes en la era pre-digital:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Alto costo de software"
+      },
+      {
+        "letra": "B",
+        "texto": "Falta de personal capacitado"
+      },
+      {
+        "letra": "C",
+        "texto": "Información fragmentada entre departamentos, difícil de analizar en tiempo real"
+      },
+      {
+        "letra": "D",
+        "texto": "ERP sin integración con ventas"
+      },
+      {
+        "letra": "E",
+        "texto": "Ausencia de internet"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Información fragmentada y difícil de analizar en tiempo real.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-04",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "¿Qué es el modelo multitenant en Salesforce?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Servidores físicos dedicados por cliente"
+      },
+      {
+        "letra": "B",
+        "texto": "Múltiples clientes comparten infraestructura de nube de forma segura y aislada"
+      },
+      {
+        "letra": "C",
+        "texto": "Varios usuarios comparten una sola cuenta"
+      },
+      {
+        "letra": "D",
+        "texto": "Instalación en servidores locales"
+      },
+      {
+        "letra": "E",
+        "texto": "Precios escalonados por usuarios activos"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Infraestructura compartida de forma segura y aislada.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-05",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "Tecnologías de desarrollo en Salesforce:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Python, React y Node.js"
+      },
+      {
+        "letra": "B",
+        "texto": "Java nativo, Angular y REST"
+      },
+      {
+        "letra": "C",
+        "texto": "Apex y Lightning Web Components (LWC)"
+      },
+      {
+        "letra": "D",
+        "texto": "SQL, PHP y Bootstrap"
+      },
+      {
+        "letra": "E",
+        "texto": "C y Blazor en Force.com"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Apex y Lightning Web Components (LWC).",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-06",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "Función de la Consola Omnicanal en Service Cloud:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Predecir comportamiento de compra con IA"
+      },
+      {
+        "letra": "B",
+        "texto": "Crear tiendas virtuales B2B"
+      },
+      {
+        "letra": "C",
+        "texto": "Centralizar interacciones multicanal en una pantalla para el agente"
+      },
+      {
+        "letra": "D",
+        "texto": "Gestionar nómina del call center"
+      },
+      {
+        "letra": "E",
+        "texto": "Conectar servidores locales con la nube"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Centralizar interacciones multicanal en una pantalla.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-07",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "Diferencia fundamental entre Salesforce (CRM) y un ERP:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Salesforce back-office; ERP front-office"
+      },
+      {
+        "letra": "B",
+        "texto": "CRM front-office (relación con cliente); ERP back-office (contabilidad, inventarios, finanzas)"
+      },
+      {
+        "letra": "C",
+        "texto": "Salesforce on-premise; ERP solo SaaS"
+      },
+      {
+        "letra": "D",
+        "texto": "Mismas funciones, distintas industrias"
+      },
+      {
+        "letra": "E",
+        "texto": "Salesforce facturación tributaria"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "CRM front-office vs ERP back-office.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-08",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "IA nativa de Salesforce:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Salesforce Newton"
+      },
+      {
+        "letra": "B",
+        "texto": "Salesforce Watson"
+      },
+      {
+        "letra": "C",
+        "texto": "Salesforce Turing"
+      },
+      {
+        "letra": "D",
+        "texto": "Salesforce Einstein"
+      },
+      {
+        "letra": "E",
+        "texto": "Salesforce Tesla"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Salesforce Einstein: predicción, calificación de leads y recomendaciones.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-09",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "Funcionalidad principal de Sales Cloud:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Portales autoservicio y FAQ"
+      },
+      {
+        "letra": "B",
+        "texto": "Customer Journeys y email marketing"
+      },
+      {
+        "letra": "C",
+        "texto": "Gestión de leads, oportunidades y pronósticos de ventas"
+      },
+      {
+        "letra": "D",
+        "texto": "Facturas electrónicas e impuestos"
+      },
+      {
+        "letra": "E",
+        "texto": "Apps móviles en AppExchange"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Leads, oportunidades y pronósticos de ventas.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-sf-10",
+    "grupo": 5,
+    "tema": "Salesforce",
+    "temaSlug": "salesforce",
+    "enunciado": "Posicionamiento global de Salesforce:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "100% de micro y pequeñas empresas"
+      },
+      {
+        "letra": "B",
+        "texto": "Líder global de CRM; usado por más del 90% de Fortune 500"
+      },
+      {
+        "letra": "C",
+        "texto": "Cuota decreciente hacia on-premise"
+      },
+      {
+        "letra": "D",
+        "texto": "Solo sector salud pública"
+      },
+      {
+        "letra": "E",
+        "texto": "Solo mercado estadounidense"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Líder CRM; más del 90% de Fortune 500.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-01",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "Según Kotler, ¿cómo se define el \"Producto real\"?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Beneficio fundamental que el cliente compra"
+      },
+      {
+        "letra": "B",
+        "texto": "Servicios y beneficios adicionales (garantía, instalación, postventa)"
+      },
+      {
+        "letra": "C",
+        "texto": "Atributos tangibles: calidad, características, diseño, marca y empaque"
+      },
+      {
+        "letra": "D",
+        "texto": "Valor diferencial de la marca"
+      },
+      {
+        "letra": "E",
+        "texto": "Ingresos netos del cliente en su relación comercial"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Atributos tangibles: calidad, diseño, marca y empaque.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-02",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "En la matriz ERP, función de Logística e Inventarios en publicidad:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Presupuesto publicitario y pagos a agencias"
+      },
+      {
+        "letra": "B",
+        "texto": "Impacto de campañas en ventas"
+      },
+      {
+        "letra": "C",
+        "texto": "Coordinación de stock en promoción y material POP en puntos de venta"
+      },
+      {
+        "letra": "D",
+        "texto": "Equipos de activación y costos de campo"
+      },
+      {
+        "letra": "E",
+        "texto": "Dashboards de ROI de campañas"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Stock en promoción y material POP en puntos de venta.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-03",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "Quinta etapa del desarrollo de nuevos productos (Análisis del negocio):",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Evaluar ideas en comités multidisciplinarios"
+      },
+      {
+        "letra": "B",
+        "texto": "Descripción detallada para probar concepto con clientes"
+      },
+      {
+        "letra": "C",
+        "texto": "Estrategia inicial de lanzamiento y mezcla de marketing"
+      },
+      {
+        "letra": "D",
+        "texto": "Proyectar ingresos, costos y rentabilidad con finanzas"
+      },
+      {
+        "letra": "E",
+        "texto": "Lanzamiento regional a escala reducida"
+      }
+    ],
+    "correcta": "D",
+    "explicacion": "Proyectar ingresos, costos y rentabilidad con finanzas.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-04",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "Embudo de conversión digital en e-commerce:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Análisis ABC y muestras físicas gratuitas"
+      },
+      {
+        "letra": "B",
+        "texto": "Alcance, interés, conversión y fidelización postventa"
+      },
+      {
+        "letra": "C",
+        "texto": "Evaluación reactiva del presupuesto tras costos logísticos"
+      },
+      {
+        "letra": "D",
+        "texto": "Paridad competitiva en punto de venta"
+      },
+      {
+        "letra": "E",
+        "texto": "Protocolo de crisis ante quejas virales"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Alcance, interés, conversión y fidelización postventa.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-05",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "¿Qué mide el indicador CPM?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Presión publicitaria (alcance × frecuencia)"
+      },
+      {
+        "letra": "B",
+        "texto": "Porcentaje del público expuesto al menos una vez"
+      },
+      {
+        "letra": "C",
+        "texto": "Frecuencia promedio de exposición"
+      },
+      {
+        "letra": "D",
+        "texto": "Recuerdo y asociación correcta con la marca"
+      },
+      {
+        "letra": "E",
+        "texto": "Costo por llegar a cada mil personas del público objetivo"
+      }
+    ],
+    "correcta": "E",
+    "explicacion": "Costo por mil personas del público objetivo.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-06",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "Diferencia analistas de mercado vs especialistas en datos:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Presupuesto anual vs diseño de empaques"
+      },
+      {
+        "letra": "B",
+        "texto": "Estudios de campo y tendencias externas vs datos históricos del CRM/ERP"
+      },
+      {
+        "letra": "C",
+        "texto": "Configurar servidores ERP vs dirigir canales de TV"
+      },
+      {
+        "letra": "D",
+        "texto": "Postventa vs campañas tradicionales"
+      },
+      {
+        "letra": "E",
+        "texto": "Mismas tareas solo con clientes internacionales"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Estudios de campo vs datos históricos CRM/ERP.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-07",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "Distribución intensiva vs exclusiva:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Solo web propia vs mayoristas"
+      },
+      {
+        "letra": "B",
+        "texto": "Máxima cantidad de puntos de venta vs pocos distribuidores para estatus"
+      },
+      {
+        "letra": "C",
+        "texto": "Camiones contratados vs horarios de supermercados"
+      },
+      {
+        "letra": "D",
+        "texto": "Solo digital vs liquidar stock"
+      },
+      {
+        "letra": "E",
+        "texto": "Misma operación con distintas comisiones online"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Máximos puntos de venta vs pocos distribuidores para estatus.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-08",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "Estrategia de prestigio vs análisis de costos internos:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Reducir precios para eliminar stock"
+      },
+      {
+        "letra": "B",
+        "texto": "Precio bajo para ganar clientes rápido"
+      },
+      {
+        "letra": "C",
+        "texto": "Precio alto por exclusividad; costos definen piso mínimo sin pérdida"
+      },
+      {
+        "letra": "D",
+        "texto": "Valor del transporte vs rentabilidad por región"
+      },
+      {
+        "letra": "E",
+        "texto": "Solo streaming vs solo franquicias"
+      }
+    ],
+    "correcta": "C",
+    "explicacion": "Precio alto por exclusividad; costos definen piso mínimo.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-09",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "Función informativa vs de marketing del empaque:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Protección en traslado vs facilidad de uso"
+      },
+      {
+        "letra": "B",
+        "texto": "Datos técnicos, nutricionales y legales vs atraer y diferenciar en tienda"
+      },
+      {
+        "letra": "C",
+        "texto": "Promociones en ERP vs stock de minoristas"
+      },
+      {
+        "letra": "D",
+        "texto": "Pauta en medios vs ciclo de vida de competencia"
+      },
+      {
+        "letra": "E",
+        "texto": "Selección de supermercados vs brief creativo"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "Datos técnicos y legales vs atraer y diferenciar la marca.",
+    "fuente": "balotario_consolidado.pdf"
+  },
+  {
+    "id": "g5-mkt-10",
+    "grupo": 5,
+    "tema": "Marketing",
+    "temaSlug": "marketing",
+    "enunciado": "Significado de ROAS, CAC y Tasa de Conversión:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Productos almacenados; alcance en TV; rapidez de entrega"
+      },
+      {
+        "letra": "B",
+        "texto": "Retorno de inversión en publicidad; costo de adquirir cliente; % que compran o se registran"
+      },
+      {
+        "letra": "C",
+        "texto": "Margen de tiendas físicas; inversión en redes; visitas diarias"
+      },
+      {
+        "letra": "D",
+        "texto": "Presupuesto de RR.PP.; plan estratégico; rotación de inventarios"
+      },
+      {
+        "letra": "E",
+        "texto": "Los tres miden ventas en marketplaces"
+      }
+    ],
+    "correcta": "B",
+    "explicacion": "ROAS, CAC y tasa de conversión según definición del documento.",
+    "fuente": "balotario_consolidado.pdf"
+  }
+]

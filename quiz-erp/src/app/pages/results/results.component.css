@@ -1,0 +1,164 @@
+.results {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.results-header {
+  margin-bottom: 1.5rem;
+}
+
+.results-header h1 {
+  margin: 0 0 0.25rem;
+}
+
+.tema-name {
+  margin: 0;
+  color: var(--text-muted);
+}
+
+.score-card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 2rem;
+  box-shadow: var(--shadow);
+}
+
+.score-ring {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: conic-gradient(
+    var(--accent) calc(attr(data-percent number, 0) * 1%),
+    var(--border) 0
+  );
+  position: relative;
+}
+
+.score-ring::before {
+  content: '';
+  position: absolute;
+  inset: 8px;
+  border-radius: 50%;
+  background: var(--surface);
+}
+
+.score-value {
+  position: relative;
+  z-index: 1;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.score-line {
+  margin: 0 0 0.35rem;
+  font-size: 1.1rem;
+}
+
+.time-line {
+  margin: 0;
+  color: var(--text-muted);
+}
+
+.review h2 {
+  margin: 0 0 1rem;
+  font-size: 1.15rem;
+}
+
+.review-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.review-item {
+  padding: 1rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.review-item.correct {
+  border-left: 4px solid var(--success);
+}
+
+.review-item.incorrect {
+  border-left: 4px solid var(--danger);
+}
+
+.review-head {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.review-num {
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.review-badge {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+}
+
+.review-item.correct .review-badge {
+  background: var(--success-soft);
+  color: var(--success);
+}
+
+.review-item.incorrect .review-badge {
+  background: var(--danger-soft);
+  color: var(--danger);
+}
+
+.review-question {
+  margin: 0 0 0.5rem;
+  line-height: 1.45;
+}
+
+.review-answer,
+.review-correct,
+.review-expl {
+  margin: 0.25rem 0 0;
+  font-size: 0.9rem;
+}
+
+.review-answer .wrong {
+  color: var(--danger);
+}
+
+.review-correct {
+  color: var(--success);
+}
+
+.review-expl {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.results-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 2rem;
+}
+
+.score-value {
+  color: var(--accent);
+}

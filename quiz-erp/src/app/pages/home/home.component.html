@@ -1,0 +1,31 @@
+<section class="home">
+  <header class="hero">
+    <p class="eyebrow">Planeamiento de Recursos Empresariales</p>
+    <h1>Quiz ERP</h1>
+    <p class="subtitle">
+      Practica con preguntas del balotario por tema. Recibirás feedback inmediato,
+      puntaje final y temporizador.
+    </p>
+  </header>
+
+  @if (quiz.loading()) {
+    <p class="state-message">Cargando preguntas…</p>
+  } @else if (quiz.loadError()) {
+    <p class="state-message error">{{ quiz.loadError() }}</p>
+  } @else if (quiz.temas().length === 0) {
+    <p class="state-message">No hay temas disponibles.</p>
+  } @else {
+    <div class="tema-grid">
+      @for (tema of quiz.temas(); track tema.slug) {
+        <a class="tema-card" [routerLink]="['/quiz', tema.slug]">
+          <span class="tema-grupo">Grupo {{ tema.grupo }}</span>
+          <h2>{{ tema.nombre }}</h2>
+          <p class="tema-count">
+            {{ tema.cantidad }} {{ tema.cantidad === 1 ? 'pregunta' : 'preguntas' }}
+          </p>
+          <span class="tema-cta">Comenzar →</span>
+        </a>
+      }
+    </div>
+  }
+</section>
